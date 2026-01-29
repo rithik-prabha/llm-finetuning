@@ -1,0 +1,19 @@
+# Data Prep Kit - 2026 Recommended Installation
+# [all] covers: ray, language, ededup, fdedup, and toolkit core
+data-prep-toolkit-transforms[all]==1.1.6
+
+# Core Data & Formatting
+pandas
+pyarrow
+sentence-transformers
+
+# Text Processing & Cleaning
+nltk
+clean-text
+contractions
+ftfy
+
+# String Matching & Deduplication
+# rapidfuzz is the 2026 standard replacement for fuzzywuzzy
+rapidfuzz
+python-Levenshtein
