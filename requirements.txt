@@ -18,3 +18,5 @@ protobuf
 scipy
 numpy
 tqdm
+
+uvicorn
